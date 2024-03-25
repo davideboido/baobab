@@ -4,9 +4,9 @@ title: CIEL
 cat: ciel
 subcat: lab
 headline: Research topic
-teasing: Difficulty on insensible reasonable in. From as went he they. Preference themselves me as thoroughly partiality considered on in estimating. Middletons acceptance discovered projecting so is so or. In or attachment inquietude remarkably comparison at an. Is surrounded prosperous stimulated am me discretion expression. But truth being state can she china widow. Occasional preference fat remarkably now projecting uncommonly dissimilar. Sentiments projection particular companions interested do at my delightful. Listening newspaper in advantage frankness to concluded unwilling. 
+teasing: The “Cerebral Imaging and Engineering Laboratory” (CIEL) is dedicated to the development of innovative methodologies for understanding the biophysics of brain mechanisms, both in normal and pathological conditions.
 leader: Sebastien Meriaux
-icon: image.png
+icon: ciel_Logo_bleu.png
 added: 2020
 ---
 
@@ -15,4 +15,12 @@ added: 2020
 <b> Leader: </b>
 <script>mail2("{{page.leader | replace: " ", "." | downcase}}", "cea", 3, "", "{{page.leader}}")</script>
 
-Difficulty on insensible reasonable in. From as went he they. Preference themselves me as thoroughly partiality considered on in estimating. Middletons acceptance discovered projecting so is so or. In or attachment inquietude remarkably comparison at an. Is surrounded prosperous stimulated am me discretion expression. But truth being state can she china widow. Occasional preference fat remarkably now projecting uncommonly dissimilar. Sentiments projection particular companions interested do at my delightful. Listening newspaper in advantage frankness to concluded unwilling.
+The “Cerebral Imaging and Engineering Laboratory” (CIEL) is dedicated to the development of innovative methodologies for understanding the biophysics of brain mechanisms, such as metabolism, neuronal activity and molecules transport, both in normal and pathological conditions. These developments are strongly supported by:
+
+- the use of high and ultra-high field MRI scanners dedicated to small animals (7T, 11.7T and 17.2T) to investigate specific brain functions with unprecedented spatio-temporal resolution and sensitivity to molecules of interest;
+
+- the integration of additional technologies such as ultrasound, 2-photons microscopy, electrophysiology and histology, to better capture the complexity of the biophysical processes under investigation or to propose new tools for modulating these processes;
+
+- an integrated translational approach, starting from the optimization of all methodological and technological developments on dedicated animal models before working on their transfer into a clinical setting.
+
+Therefore, the global scientific strategy of CIEL consists in building a framework of imaging technologies that are increasing the comprehension of fundamental mechanisms underlying brain functioning, but also in producing new diagnostic and therapeutic tools in a pathological context such as brain tumor, stroke, neurodegenerative and psychiatric diseases.

@@ -1,10 +1,10 @@
 ---
 layout:
-name: Benoit Larra
+name: Benoit Larrat
 position: pi
 cat: ciel
 subcat: midas
-avatar:
+avatar: b-larrat.png
 joined: 2006
 ---
 

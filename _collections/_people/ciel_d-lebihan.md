@@ -4,7 +4,7 @@ name: Denis Le Bihan
 position: pi
 cat: ciel
 subcat: neurophysics
-avatar:
+avatar: d-lebihan.png
 joined: 2006
 ---
 
