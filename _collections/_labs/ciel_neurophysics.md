@@ -20,3 +20,4 @@ Our research focuses on the development of new techniques for magnetic resonance
 
 Our team has successfully carried out several projects focused on metabolic imaging. We have developed a fast CEST acquisition	(linescan-CEST), which allowed us to detect	in vivo, for the first time, carnosine and derivatives in the rat brain and leg muscle. The linescan-CEST sequence was also used by our collaborators, C. Faber and V. Hoerr (Munster University), to investigate mutarotation kinetics in sugars. To aid the
 analysis of small CEST peaks we developed a dedicated software (https://github.com/SKMikee/PeakIt,). These developments will allow us to assess dynamic metabolic changes in vivo: glucose uptake, pH changes, functional metabolic changes.
+

@@ -6,7 +6,7 @@ subcat: cell
 headline: Research topic
 teasing: The “Small animal MRI systems” platform includes three active 7T, 11.7T and 17.2 MRI scanners provided by the Bruker BioSpin company, mainly dedicated to rodents and small animals imaging.
 leader: Sébastien Mériaux
-icon: image.png
+icon: ciel_MRIplatform.png
 added: 2020
 permalink: cells/ciel-animal-mri.html
 ---
