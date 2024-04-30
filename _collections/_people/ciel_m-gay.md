@@ -1,10 +1,10 @@
 ---
 layout:
-name: Françoise Geffroy
-position: pi
+name: Marion Gay
+position: engineer
 cat: ciel
 subcat: midas
 avatar: s-meriaux.png
-joined: 2006
+joined: 2022
 ---
 
