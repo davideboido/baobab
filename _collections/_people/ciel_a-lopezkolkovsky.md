@@ -4,7 +4,7 @@ name: Alfredo Lopez-Kolkovsky
 position: pi
 cat: ciel
 subcat: ciclops
-avatar: f-boumezbeur.png
+avatar: a-lopezkolkovsky.png
 joined: 2024
 ---
 

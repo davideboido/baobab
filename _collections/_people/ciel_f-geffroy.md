@@ -4,7 +4,7 @@ name: Françoise Geffroy
 position: pi
 cat: ciel
 subcat: midas
-avatar: s-meriaux.png
+avatar: 
 joined: 2006
 ---
 
